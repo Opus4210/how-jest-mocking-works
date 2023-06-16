@@ -8,10 +8,10 @@
   },
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
-  "dependencies": {
-    "jest-cli": "^16.0.2"
-  },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "jest-cli": "^16.0.2"
   }
 }
